@@ -14,9 +14,14 @@
                 "value": "{\"m_Value\":true}"
             },
             {
+                "type": "System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                "key": "createDefaultBuildsFolder",
+                "value": "{\"m_Value\":true}"
+            },
+            {
                 "type": "System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
                 "key": "buildOutputDirList",
-                "value": "{\"m_Value\":\"/Users/bogdanresetilov/UNITY Projects/TutorailCourseUnityLearn/GitHub/Programming-Theory-Repo/SpaceStarship/Build 1.0/Build 1.0 110922;/Users/bogdanresetilov/UNITY Projects/TutorailCourseUnityLearn/GitHub/Programming-Theory-Repo/SpaceStarship/Build 1.0 110922/SpaceStarShip;;;;;;;;\"}"
+                "value": "{\"m_Value\":\"/Users/bogdanresetilov/UNITY Projects/Portfolio/SpaceStarship/SpaceStarShip/WebGL Builds;/Users/bogdanresetilov/UNITY Projects/TutorailCourseUnityLearn/GitHub/Programming-Theory-Repo/SpaceStarship/Build 1.0/Build 1.0 110922;/Users/bogdanresetilov/UNITY Projects/TutorailCourseUnityLearn/GitHub/Programming-Theory-Repo/SpaceStarship/Build 1.0 110922/SpaceStarShip;;;;;;;\"}"
             }
         ]
     }
